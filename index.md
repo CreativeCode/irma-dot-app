@@ -13,8 +13,8 @@ page_sections:
     link_text: IRMA
   - link: "#features"
     link_text: Features
-  - link: "#more"
-    link_text: More
+  - link: "#Uitleg"
+    link_text: Uitleg
   - link: "#faqs"
     link_text: FAQs
 - template: irma-banner
@@ -63,7 +63,7 @@ page_sections:
   heading: IRMA is <strong>free</strong>, but this time you are not the product.
 - template: 3-column-text
   block: three-column-1
-  id: more
+  id: uitleg
   image_1:
     image: "/uploads/non-free/getstarted.png"
   image_2:
