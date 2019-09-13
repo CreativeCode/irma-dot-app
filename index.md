@@ -98,13 +98,13 @@ page_sections:
   headline: <span class="light">Veel gestelde vragen en <strong>antwoorden</strong>
     daarop<span>
   faq_items:
+  - question: Hoe moet ik met IRMA inloggen op een website?
+    answer: Websites waar je met IRMA in kunt loggen hebben een knop daarvoor, waar bijvoorbeeld op staat <em>Log in met IRMA</a>. Als je de IRMA app nog niet op je telefoon hebt zul je die eerst moeten installeren en vullen met de kenmerken die je nodig hebt. <br> Als je IRMA app al wel hebt, zijn twee verschillende situaties":" <ul><li> Als je de website bekijkt op je computer of laptop en je drukt op die login knop verschijnt er een QR code. Je opent dan de IRMA app op je telefoon met je PIN. Onderaan in de app zit een knopje waarmee je de QR code kunt scannen. In de app krijg je dan de vraag of je kenmerken waarom de website vraagt wil vrijgeven. Als je op OK klikt, ben je ingelogd.</li><li> Als je de website op je telefoon bekijkt wordt na het indrukken van de login knop automatisch overgeschakeld naar de IRMA app. Daarin verschijnt de vraag of je de gevraagde kenmerken wil vrijgeven. Nadat je op OK hebt gedrukt ga je terug naar de website en ben je ingelogd. Als het goed is gaat je telefoon automatisch terug, maar soms moet je dat met de hand doen.</li></ul><br>Het kan zijn dat de website vraagt om kenmerken die je nog niet in je IRMA app geladen hebt. Dan moet je dat eerst nog even doen voordat je in kunt loggen.
   - question: Welke kenmerken kan ik nu (en later) in de IRMA app zetten?
     answer: Vanuit gemeenten kun je zelf kenmerken zoals je naam, adres, geboortedatum, BSN in je IRMA app zetten, maar ook of je bijvoorbeeld ouder dan 18 of 65 bent. Daarnaast kun je een of meer email adressen en mobiele telefoonnummers toevoegen. Studenten en medewerkers in het (hoger) onderwijs kunnen ook hun registratie toevoegen. Medewerkers in de zorg kunnen zogenaamde BIG en AGB registraties toevoegen. Ook vanuit sociale media (LinkedIn, Twitter, Facebook) kun je gegevens laden. Hiermee kun je in veel situaties voldoende van jezelf bekend maken. Naar verwachting zullen de komende tijd nog veel andere bronnen van persoonsgegevens aan IRMA toegevoegd worden, voor gebruikers in het algemeen en ook voor speciale (beroeps)groepen. 
-
   - question: Kan ik IRMA op een tweede telefoon of tablet zetten?
     answer: Jazeker, op ieder (<a href="https://play.google.com/store/apps/details?id=org.irmacard.cardemu">Android</a>
       en <a href="https://itunes.apple.com/us/app/irma-authentication/id1294092994">iOS</a>) apparaat kun je een apart IRMA account openen en vullen met persoonskenmerken. Het is misschien wel verstandig omdat te doen, want als je dan het ene apparaat kwijt bent, kun je nog met een ander inloggen.
-
   - question: Waar staan mijn IRMA gegevens opgeslagen.
     answer: IRMA gegevens worden alleen op je eigen telefoon opgeslagen en nergens anders. Ze staan dus niet ook nog ergens in een cloud. De organistie achter IRMA kan (en wil) niet zien welke kenmerken jij op jouw telefoon opgeslagen hebt en kan ook niet zien waar je ze gebruikt.
   - question: Hoezo is IRMA privacy-vriendelijk en veilig?
