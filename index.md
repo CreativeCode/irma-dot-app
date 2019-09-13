@@ -95,8 +95,7 @@ page_sections:
 - template: faq
   block: faq-1
   id: faq
-  headline: <span class="light">Veel gestelde vragen en <strong>antwoorden</strong>
-    daarop<span>
+  headline: <span class="light">Veel gestelde vragen en <strong>antwoorden</strong>daarop<span>
   faq_items:
   - question: "Hoe moet ik met IRMA inloggen op een website?"
     answer: "Websites waar je met IRMA in kunt loggen hebben een knop daarvoor, waar bijvoorbeeld op staat <em>Log in met IRMA</a>. Als je de IRMA app nog niet op je telefoon hebt zul je die eerst moeten installeren en vullen met de kenmerken die je nodig hebt. <br> Als je IRMA app al wel hebt, zijn twee verschillende situaties:"<ul><li> Als je de website bekijkt op je computer of laptop en je drukt op die login knop verschijnt er een QR code. Je opent dan de IRMA app op je telefoon met je PIN. Onderaan in de app zit een knopje waarmee je de QR code kunt scannen. In de app krijg je dan de vraag of je kenmerken waarom de website vraagt wil vrijgeven. Als je op OK klikt, ben je ingelogd.</li><li> Als je de website op je telefoon bekijkt wordt na het indrukken van de login knop automatisch overgeschakeld naar de IRMA app. Daarin verschijnt de vraag of je de gevraagde kenmerken wil vrijgeven. Nadat je op OK hebt gedrukt ga je terug naar de website en ben je ingelogd. Als het goed is gaat je telefoon automatisch terug, maar soms moet je dat met de hand doen.</li></ul><br>Het kan zijn dat de website vraagt om kenmerken die je nog niet in je IRMA app geladen hebt. Dan moet je dat eerst nog even doen voordat je in kunt loggen.
