@@ -95,6 +95,72 @@ page_sections:
 - template: faq
   block: faq-1
   id: faq
+  headline: <span class="light">Veel gestelde vragen en <strong>antwoorden</strong>
+    daarop<span>
+  faq_items:
+  - question: Welke kenmerken kan ik nu (en later) in de IRMA app zetten?
+    answer: Vanuit de gemeenten kun je kenmerken zoals je naam, adres, geboortedatum,
+      BSN in je IRMA app zetten, maar ook of je bijvoorbeeld ouder dan 18 of 65 bent.
+      Daarnaast kun je een of meer email adressen en mobiele telefoonnummers toevoegen.
+      Studenten en medewerkers in het (hoger) onderwijs kunnen ook hun registratie
+      toevoegen. Medewerkers in de zorg kunnen zogenaamde BIG en AGB registraties
+      toevoegen. Ook vanuit sociale media (LinkedIn, Twitter, Facebook) kun je gegevens
+      laden. Hiermee kun je in veel situaties voldoende van jezelf bekend maken. Naar
+      verwachting zullen de komende tijd nog veel andere bronnen van persoonsgegevens
+      aan IRMA toegevoegd worden.
+  - question: Kan ik IRMA op een tweede telefoon of tablet zetten?
+    answer: Jazeker, op ieder (<a href="https://play.google.com/store/apps/details?id=org.irmacard.cardemu">Android</a>
+      of <a href="https://itunes.apple.com/us/app/irma-authentication/id1294092994">iOS</a>)
+      apparaat kun je een apart IRMA account openen en vullen met persoonskenmerken.
+      Het is misschien wel verstandig omdat te doen, want als je dan het ene apparaat
+      kwijt bent, kun je nog met een ander inloggen.
+  - question: Waar staan mijn IRMA gegevens opgeslagen.
+    answer: IRMA gegevens worden alleen op je eigen telefoon opgeslagen en nergens
+      anders. Ze staan dus niet ook nog ergens in een cloud. De organistie achter
+      IRMA kan niet zien welke kenmerken jij op jouw telefoon opgeslagen hebt en kan
+      ook niet zien waar je ze gebruikt.
+  - question: Hoezo is IRMA privacy-vriendelijk en veilig?
+    answer: 'Persoonskenmerken van IRMA staan alleen in de IRMA app. Je laat alleen
+      die gegevens van jezelf zien die in een bepaalde situatie relevant en nodig
+      zijn. Bijvoorbeeld, om korting te krijgen moet je soms bewijzen dat je student
+      bent; dat kun je met IRMA doen zonder je naam of studie te tonen. Jouw kenmerken
+      in de IRMA app zijn digitaal ondertekend door de bron waar de gegevens vandaan
+      komen. Daardoor kan een website of winkel, waar je jezelf bekend maakt, cryptografisch
+      controleren dat de gegevens echt zijn. Deze uitwisseling van persoonskenmerken
+      vindt rechtstreeks plaats tussen je telefoon en deze website. Niemand anders
+      kan zien dat jij je daar bekendmaakt. Dit is heel anders dan een (privacy-onvriendelijke)
+      login via Facebook, bijvoorbeeld bij een online winkel. Dan vindt de uitwisseling
+      anders plaats: je moet eerst bij Facebook inloggen, waarna Facebook aan de webwinkel
+      vertelt wie je bent. Facebook kan zo profielen opbouwen van wie waar inlogt.'
+  - question: Waar staan mijn IRMA gegevens opgeslagen.
+    answer: De kenmerken van jezelf die je in de IRMA app verzamelt staan alleen in
+      de app opgeslagen en worden door IRMA nergens anders opgeslagen. Ze staan dus
+      niet ook nog ergens in een cloud. Als je jouw kenmerken uit de app verwijdert
+      zijn ze ook echt weg. Jij geeft zelf expliciet toestemming voordat deze kenmerken
+      vanuit de IRMA app aan een website doorgegeven worden.
+  - question: Hoe lang zijn kenmerken in IRMA geldig en hoe kan ik ze verversen?
+    answer: In de IRMA app kun je op het kaartje met je kenmerken zien hoe lang ze
+      geldig zijn. Die geldigheidsduur hangt af van het soort gegevens, namelijk van
+      hoe veranderlijk ze zijn. Je naam en geboortedatum zijn vijf jaar geldig, maar
+      je adres slechts een jaar. De uitgever (bron) van kenmerken bepaalt de geldigheidsduur.
+      <br> De geldigheid van IRMA kenmerken kan dus verlopen. De app geeft je daar
+      een waarschuwing voor. Je kunt je kenmerken altijd verversen door ze opnieuw
+      op te halen bij de bron, net zo als je de eerste keer doet.
+  - question: Wat doe ik als ik een nieuwe telefoon koop?
+    answer: We have the answer :)
+  - question: Wat doe ik als ik mijn telefoon verlies?
+    answer: We have the answer :)
+  - question: Ik heb een vraag over IRMA; waar kan ik terecht?
+    answer: We have the answer :)
+  - question: Wat gebeurt er met mijn gegevens als ik met IRMA inlog?
+    answer: We have the answer :)
+  - question: Wie zit er achter IRMA?
+    answer: We have the answer :)
+  - question: Hoezo kan IRMA gratis zijn?
+    answer: We have the answer :)
+- template: faq
+  block: faq-1
+  id: faq
   headline: <span class="light">Veel gestelde vragen en <strong>antwoorden</strong>daarop<span>
   faq_items:
   - question: "Hoe moet ik met IRMA inloggen op een website?"
