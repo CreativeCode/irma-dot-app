@@ -1,0 +1,220 @@
+/* Scrolling to elements*/ 
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+@media screen and (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+
+/* Changing header */
+
+.block-header-1--logo img {
+    max-height: 4.0rem;
+}
+
+.block-header-1 {
+    padding: 0.5rem 2rem
+}
+
+header {
+    border-bottom: 1px solid #000;
+    -webkit-box-shadow: 0 1px 6px 0 rgba(0,0,0,0.6);
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.6);
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    height: 90px
+}
+
+.block-header-1--logo {
+	padding-right: 30px;
+}
+
+.block-header-1 .nav-item {
+    font-size: 16px;
+    padding: 0.5rem 0;
+    font-size: 1.0rem
+}
+
+/* Scroll adjustment to make up for sticky header */
+.destination {
+  position:absolute;
+  z-index:-1;
+  left:0;
+  margin-top:-105px;/* 90 (height of nav) and a 15 for extra space*/
+}
+
+/* First element after header needs margin on top*/
+
+/* .block-hero-2 {
+  margin-top: 90px; 
+} 
+*/
+
+/* .headspace {
+  min-height: 90px;
+} */
+
+/* Double call to action */
+
+.button.primary.inverted {
+    margin-right: 10px;    
+    margin-bottom: 10px;    
+}
+
+/* Overwriting colors */
+
+
+.button.primary {
+ background-color:#004C92
+}
+
+.button.secondary {
+ border:1.5px solid #004C92
+}
+
+.block-header-1 .nav-item.active a {
+ color:#004C92
+}
+
+.block-header-1 .nav-item.active a:hover {
+ color:#004C92
+}
+
+.block-header-1 .nav-item.active a {
+ color:#004C92
+}
+
+.block-header-1 .nav-item.active a:hover {
+ color:#004C92
+}
+
+.block-hero-1 {
+ --bg:#00B1E6
+}
+
+.block-hero-2 {
+ --bg:#004C92
+}
+
+.block-cta-bar {
+ background:#004C92
+}
+
+::-moz-selection {
+ background:#ffedbc
+}
+::-webkit-selection {
+ background:#004C92
+}
+::selection {
+ background:#004C92
+}
+
+.black {
+  color: #000000;
+}
+
+/* Adjusting the size of elements */
+
+@media screen and (min-width:700px) {
+ .block-hero-2 .column.text {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%
+ }
+ .block-hero-2 .column.media {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%
+ }
+ .block-hero-2 .column.media img {
+  width:25vw;
+  max-width:320px
+ }
+ header { 
+  z-index: 9999;
+  background-color: #fff;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 90px;
+ }
+ .block-hero-2 {
+    padding: 3rem 4rem;
+ }
+}
+
+/* Increase font sizes */
+column.text p {
+    font-size: 20px;
+    font-size: 1.25rem;
+}
+
+
+/* Style collapsible from https://www.w3schools.com/howto/howto_js_collapsible.asp */
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #ECECEC;
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 900px;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+/* Add a background color to the button if it is clicked on (add the .open class with JS), and when you move the mouse over it (hover) */
+.open, .collapsible:hover {
+  background-color: #ccc;
+  color: #313131;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  color: #444;
+  display: block;
+  margin: auto;
+  max-width: 900px;
+  padding: 0px 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+.open:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.center {
+    display: block;
+    padding-bottom: 30px;
+    margin: auto;
+    text-align: center;
+    max-width: 900px;
+}
+
+.indent{
+  padding-left: 30px;
+}
