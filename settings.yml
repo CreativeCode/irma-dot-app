@@ -1,4 +1,21 @@
----
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="/">
+    <title>IRMA</title>
+    <meta name="author" content="Privacy by Design Foundation">
+    <meta name="description" content="IRMA is an authentication app that protects your privacy.">
+    <link rel="stylesheet" href="/css/ubuild.css"/>
+    <link rel="stylesheet" href="/css/irma.css"/>
+  </head>
+  <body>
+
+
+<!-- Add your site or application content here -->
+<p>---
 new_page_extension: md
 auto_deploy: false
 admin_path: 
@@ -25,3 +42,7 @@ build:
   working_dir: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d _site
+</p>
+
+  </body>
+</html>
