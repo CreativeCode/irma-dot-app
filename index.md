@@ -13,7 +13,7 @@ page_sections:
     link_text: IRMA
   - link: "#features"
     link_text: Features
-  - link: "#Uitleg"
+  - link: "#uitleg"
     link_text: Uitleg
   - link: "#faqs"
     link_text: FAQs
