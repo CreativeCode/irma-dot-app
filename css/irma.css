@@ -52,8 +52,13 @@ header {
 
 /* First element after header needs margin on top*/
 
-.block-hero-2 {
-  margin-top: 105px; /* height of nav and 15 for extra space */
+/* .block-hero-2 {
+  margin-top: 90px; 
+} 
+*/
+
+.headspace {
+  min-height: 90px;
 }
 
 /* Double call to action */
