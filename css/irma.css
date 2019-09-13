@@ -53,7 +53,7 @@ header {
 /* First element after header needs margin on top*/
 
 .block-hero-2 {
-  padding-top: 90px; /* height of nav */
+  padding-top: 105px; /* height of nav and 15 for extra space */
 }
 
 /* Double call to action */
