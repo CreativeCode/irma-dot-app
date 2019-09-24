@@ -11,8 +11,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: IRMA
-  - link: "#features"
-    link_text: Features
+  - link: "#gebruik"
+    link_text: Gebruik
   - link: "#uitleg"
     link_text: Uitleg
   - link: "#faqs"
@@ -35,7 +35,7 @@ page_sections:
   background_image: "/uploads/2019/07/30/irma-2-bg.png"
 - template: 3-column-text
   block: three-column-1
-  id: features
+  id: gebruik
   image_1:
     image: "/uploads/non-free/login.png"
   image_2:
@@ -43,24 +43,24 @@ page_sections:
   image_3:
     image: "/uploads/non-free/secure.png"
   col_1:
-    headline: Inloggen,
+    headline: Inloggen
     content: Met IRMA kun je makkelijk inloggen en jezelf bekend maken. Je laat alleen
       die kenmerken van jezelf zien die relevant zijn. Bijvoorbeeld om een bepaalde
       film te kijken, bewijs je dat je ouder  dan 16 bent, en verder niets.
   col_2:
-    headline: en ondertekenen,
+    headline: Ondertekenen
     content: Ook kun je met IRMA documenten digitaal ondertekenen. Je gebruikt alleen
       relevante kenmerken van jezelf, in een soort digitaal stempel. Zo kun je met
       IRMA ondertekenen als arts, als burger of vanuit een andere rol.
   col_3:
-    headline: op betrouwbaare wijze.
+    headline: Vertrouwen
     content: Gegevens in een IRMA app komen uit betrouwbare bronnen en zijn cryptografisch
       beschermd. De kenmerken die jij met IRMA bekend maakt zijn daarmee echt, en
       echt van jou.
 - template: slogan
   block: irma-1
   id: start
-  heading: IRMA is <strong>free</strong>, but this time you are not the product.
+  heading: Met IRMA heb je  <strong>in de hand</strong> wat er met jouw gegevens gebeurt.
 - template: 3-column-text
   block: three-column-1
   id: uitleg
@@ -200,7 +200,7 @@ page_sections:
       De IRMA organistie kan jouw kenmerken niet zien — omdat ze alleen op jouw telefoon
       staan — en kan ook niet zien welke attributen je aan welke website vrijgeeft.
   - question: Wie zit er achter IRMA?
-    answer: IRMA is eigendom van de stichting <a href="https://privacybydesign.foundation/">Privacy
+    answer: IRMA wordt gemaakt door de stichting <a href="https://privacybydesign.foundation/">Privacy
       by Design</a>. Deze stichting is in 2016 voortgekomen uit de <em>Digital Security</em>
       onderzoeksgroep van de Radboud Universiteit in Nijmegen. De stichting is onafhankelijk
       en heeft geen doelstelling om winst te maken. Sinds 2019 heeft de stichting
@@ -215,10 +215,34 @@ page_sections:
       IRMA apps zetten; dat zou snel een rommeltje worden.<br><br> Voor die uitgifte
       moet betaald worden en moet een contract getekend worden, waarbij de uitgever
       zich ertoe verplicht om alleen juiste gegevens in de IRMA app van de juiste
-      persoon te zetten. Omdat IRMA een decentraal systeem is, waarbij gegevens alleen
+      persoon te zetten. Ook kan een contract afgesloten worden voor support garanties (een "SLA") via SIDN. Omdat IRMA een decentraal systeem is, waarbij gegevens alleen
       op telefoons staan en rechtstreeks met websites uitgewisseld worden, heeft de
       organisatie achter IRMA relatief weinig te doen. Omdat die organisatie bovendien
       geen winstoogmerk heeft is IRMA als geheel een goedkoop systeem.'
+
+    - question: IRMA is <em>open source</em>; wat betekent dat
+    answer: De software van IRMA is open source. Dat betekent dat de 
+    manier waarop IRMA werkt door iedereen bekeken kan worden: de software 
+    staat gewoon online, namelijk op github 
+    (https://github.com/privacybydesign). Natuurlijk moet je wel wat van 
+    computerprogramma's weten om dit echt te kunnen begrijpen, maar het 
+    principe is belangrijk: IRMA kent geen geheimen en werkt op een 
+    transparante manier. Dit draagt bij aan het vertrouwen in IRMA. Er zijn 
+    daarom met IRMA geen discussies over verborgen achterdoortjes van 
+    leveranciers met een eigen agenda, zoals bijvoorbeeld met 5G 
+    telecommunicatie. De stichting Privacy by Design achter IRMA vindt dat 
+    alle software die gebruikt wordt in infrastructuur met een publieke rol 
+    open source moet zijn. 
+
+    - question: Ik wil meer informatie over IRMA; waar kan ik terecht? 
+    answer: Het grotere verhaal achter IRMA staat beschreven in een IRMA 
+    Manifest 
+    (https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf). 
+    Uitgebreidere uitleg over de werking van IRMA wordt 
+    gegeven door de stichting Privacy by Design op een eigen pagina 
+    (https://privacybydesign.foundation/irma-uitleg/). Mensen die de 
+    software van IRMA willen bekijken kunnen terecht op een technische <a href="https://irma.app/docs">documentatie</a> pagina en op github 
+    (https://github.com/privacybydesign).
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
