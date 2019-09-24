@@ -207,7 +207,6 @@ page_sections:
       Privacy by Design een strategische samenwerking met de stichting Internet Domeinregistratie
       Nederland (<a href="https://www.sidn.nl/">SIDN</a>). Mede door deze samenwerking wordt de stabiliteit
       en continuiteit van IRMA gegarandeerd.
-
   - question: Hoezo kan IRMA gratis zijn?
     answer: IRMA is gratis voor gebruikers. IRMA is ook gratis voor websites die
       gebruikers via IRMA laten inloggen':' iedereen kan kenmerken uit een IRMA app
