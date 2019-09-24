@@ -180,11 +180,11 @@ page_sections:
       goede PIN gekozen hebt, hoef je je geen zorgen te maken. <br><br> Je kunt jezelf
       echter nog beter beschermen':' bij het openen van een IRMA account heb je de
       optie gekregen om een email adres toe te voegen. Als je dat gedaan hebt, kun
-      je via de <a href="https://privacybydesign.foundation/mijnirma/">MijnIRMA</a>
+      je via de <a href="https://privacybydesign.foundation/mijnirma/" target="_blank">MijnIRMA</a>
       omgeving je IRMA account blokkeren. Dan kan er echt helemaal niks meer met de
       IRMA app op je oude, verloren telefoon gebeuren. Als je nog geen email adres
-      toegevoegd hebt in MijnIRMA kun je dat alsnog doen, door <a href="https://privacybydesign.foundation/mijnirma/">daar</a>
-      met IRMA zelf in te loggen. Het is verstandig dat te doen. <span>
+      toegevoegd hebt in MijnIRMA kun je dat alsnog doen, door <a href="https://privacybydesign.foundation/mijnirma/" target="_blank">daar</a>
+      met IRMA zelf in te loggen. Het is verstandig dat te doen.
   - question: Ik heb een vraag over IRMA; waar kan ik terecht?
     answer: Als je een vraag hebt over inloggen met IRMA bij webwinkel De Hippe Kip,
       dan kun je die vraag het beste stellen aan De Hippe Kip zelf. Ook als die website
@@ -200,12 +200,12 @@ page_sections:
       De IRMA organistie kan jouw kenmerken niet zien — omdat ze alleen op jouw telefoon
       staan — en kan ook niet zien welke attributen je aan welke website vrijgeeft.
   - question: Wie zit er achter IRMA?
-    answer: IRMA wordt gemaakt door de stichting <a href="https://privacybydesign.foundation/">Privacy
+    answer: IRMA wordt gemaakt door de stichting <a href="https://privacybydesign.foundation/" target="_blank">Privacy
       by Design</a>. Deze stichting is in 2016 voortgekomen uit de <em>Digital Security</em>
       onderzoeksgroep van de Radboud Universiteit in Nijmegen. De stichting is onafhankelijk
       en heeft geen doelstelling om winst te maken. Sinds 2019 heeft de stichting
       Privacy by Design een strategische samenwerking met de stichting Internet Domeinregistratie
-      Nederland (<a href="https://www.sidn.nl/">SIDN</a>). Mede door deze samenwerking wordt de stabiliteit
+      Nederland (<a href="https://www.sidn.nl/" target="_blank">SIDN</a>). Mede door deze samenwerking wordt de stabiliteit
       en continuiteit van IRMA gegarandeerd.
   - question: Hoezo kan IRMA gratis zijn?
     answer: IRMA is gratis voor gebruikers. IRMA is ook gratis voor websites die
@@ -215,12 +215,12 @@ page_sections:
       IRMA apps zetten; dat zou snel een rommeltje worden.<br><br> Voor die uitgifte
       moet betaald worden en moet een contract getekend worden, waarbij de uitgever
       zich ertoe verplicht om alleen juiste gegevens in de IRMA app van de juiste
-      persoon te zetten. Ook kan een contract afgesloten worden voor support garanties (een "SLA") via SIDN. Omdat IRMA een decentraal systeem is, waarbij gegevens alleen
+      persoon te zetten. <br><br>Ook kan een contract afgesloten worden voor support garanties (een "SLA") via SIDN. Omdat IRMA een decentraal systeem is, waarbij gegevens alleen
       op telefoons staan en rechtstreeks met websites uitgewisseld worden, heeft de
       organisatie achter IRMA relatief weinig te doen. Omdat die organisatie bovendien
       geen winstoogmerk heeft is IRMA als geheel een goedkoop systeem.
 
-    - question: IRMA is <em>open source</em>; wat betekent dat
+    - question: IRMA is <em>open source</em>; wat betekent dat?
     answer: De software van IRMA is open source. Dat betekent dat de 
     manier waarop IRMA werkt door iedereen bekeken kan worden':' de software 
     staat gewoon online, namelijk op github 
