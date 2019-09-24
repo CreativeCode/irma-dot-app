@@ -118,7 +118,7 @@ page_sections:
   - question: Welke kenmerken kan ik nu (en later) in de IRMA app zetten?
     answer: Vanuit gemeenten kun je zelf kenmerken zoals je naam, adres, geboortedatum,
       BSN in je IRMA app zetten, maar ook of je bijvoorbeeld ouder dan 18 of 65 bent.
-      Daarnaast kun je een of meer email adressen en mobiele telefoonnummers toevoegen.
+      Daarnaast kun je een of meer email adressen en mobiele telefoonnummers, na controle, toevoegen.
       Studenten en medewerkers in het (hoger) onderwijs kunnen ook hun registratie
       toevoegen. Medewerkers in de zorg kunnen zogenaamde BIG en AGB registraties
       toevoegen. Ook vanuit sociale media (LinkedIn, Twitter, Facebook) kun je gegevens
@@ -205,11 +205,12 @@ page_sections:
       onderzoeksgroep van de Radboud Universiteit in Nijmegen. De stichting is onafhankelijk
       en heeft geen doelstelling om winst te maken. Sinds 2019 heeft de stichting
       Privacy by Design een strategische samenwerking met de stichting Internet Domeinregistratie
-      Nederland (<a href="">SIDN</a>). Mede door deze samenwerking wordt de stabiliteit
+      Nederland (<a href="https://www.sidn.nl/">SIDN</a>). Mede door deze samenwerking wordt de stabiliteit
       en continuiteit van IRMA gegarandeerd.
+
   - question: Hoezo kan IRMA gratis zijn?
-    answer: 'IRMA is gratis voor gebruikers. IRMA is ook gratis voor websites die
-      gebruikers via IRMA laten inloggen: iedereen kan kenmerken uit een IRMA app
+    answer: IRMA is gratis voor gebruikers. IRMA is ook gratis voor websites die
+      gebruikers via IRMA laten inloggen':' iedereen kan kenmerken uit een IRMA app
       opvragen en bekijken, als de gebruiker toestemming geeft. Maar het is <em>niet
       gratis</em> om kenmerken uit te geven. Niet iedereen kan zomaar kenmerken in
       IRMA apps zetten; dat zou snel een rommeltje worden.<br><br> Voor die uitgifte
@@ -218,11 +219,11 @@ page_sections:
       persoon te zetten. Ook kan een contract afgesloten worden voor support garanties (een "SLA") via SIDN. Omdat IRMA een decentraal systeem is, waarbij gegevens alleen
       op telefoons staan en rechtstreeks met websites uitgewisseld worden, heeft de
       organisatie achter IRMA relatief weinig te doen. Omdat die organisatie bovendien
-      geen winstoogmerk heeft is IRMA als geheel een goedkoop systeem.'
+      geen winstoogmerk heeft is IRMA als geheel een goedkoop systeem.
 
     - question: IRMA is <em>open source</em>; wat betekent dat
     answer: De software van IRMA is open source. Dat betekent dat de 
-    manier waarop IRMA werkt door iedereen bekeken kan worden: de software 
+    manier waarop IRMA werkt door iedereen bekeken kan worden':' de software 
     staat gewoon online, namelijk op github 
     (https://github.com/privacybydesign). Natuurlijk moet je wel wat van 
     computerprogramma's weten om dit echt te kunnen begrijpen, maar het 
