@@ -229,9 +229,7 @@ page_sections:
       alle software die gebruikt wordt in infrastructuur met een publieke rol open source moet zijn. 
 
   - question: Ik wil meer informatie over IRMA; waar kan ik terecht? 
-    answer: Het grotere verhaal achter IRMA staat beschreven in een <a href="https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf" target="_blank">IRMA Manifest</a>. <br><br>
-
-    Uitgebreidere uitleg over de werking van IRMA wordt gegeven door de stichting Privacy by Design op een eigen  <a href="https://privacybydesign.foundation/irma-uitleg/" target="_blank">pagina </a>. Mensen die de software van IRMA willen bekijken kunnen terecht op een technische <a href="https://irma.app/docs target="_blank">documentatie</a> pagina en op <a href="https://github.com/privacybydesign" target="_blank">Github</a>.
+    answer: Het grotere verhaal achter IRMA staat beschreven in een <a href="https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf" target="_blank">IRMA Manifest</a>. <br><br>  Uitgebreidere uitleg over de werking van IRMA wordt gegeven door de stichting Privacy by Design op een eigen  <a href="https://privacybydesign.foundation/irma-uitleg/" target="_blank">pagina </a>. Mensen die de software van IRMA willen bekijken kunnen terecht op een technische <a href="https://irma.app/docs target="_blank">documentatie</a> pagina en op <a href="https://github.com/privacybydesign" target="_blank">Github</a>.
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
