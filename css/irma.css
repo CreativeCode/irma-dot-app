@@ -71,6 +71,11 @@ header {
 
 /* Overwriting colors */
 
+ul,
+.faq-item {
+  font-weight: 400;
+  color: #666 !important;
+}
 
 .button.primary {
   background-color: #004C92
@@ -124,9 +129,17 @@ header {
   color: #000000;
 }
 
+#myTopnav {
+  display: none;
+}
+
 /* Adjusting the size of elements */
 
 @media screen and (min-width:700px) {
+  #myTopnav {
+    display: block;
+  }
+
   .block-hero-2 .column.text {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%
@@ -227,4 +240,31 @@ column.text p {
 
 .indent {
   padding-left: 30px;
+}
+
+.block-footer-2 {
+  font-size: 12.8px;
+  font-size: .8rem;
+  color: white;
+  background: rgb(69, 68, 68);
+  text-align: left;
+}
+
+.block-footer-2 p {
+  font-weight: 400;
+  color: white;
+}
+
+.block-footer-2 a {
+  color: lightskyblue;
+}
+
+
+.block-footer-2 img {
+  max-width: 200px;
+}
+
+
+.block-footer-2 .column {
+  min-width: 200px;
 }

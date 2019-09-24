@@ -7,7 +7,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2019/07/30/irma_logo@1x.png"
+  logo: "/uploads/non-free/irma_logo@1x.png"
   navigation:
   - link: "/"
     link_text: IRMA
@@ -17,6 +17,8 @@ page_sections:
     link_text: Uitleg
   - link: "#faqs"
     link_text: FAQs
+  - link: "#links"
+    link_text: Links
 - template: irma-banner
   block: irma-2
   headline: Kies IRMA. <br><strong>Zet een digitaal paspoort op je eigen mobiel.</strong>
@@ -231,8 +233,21 @@ page_sections:
   - question: Ik wil meer informatie over IRMA; waar kan ik terecht? 
     answer: Het grotere verhaal achter IRMA staat beschreven in een <a href="https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf" target="_blank">IRMA Manifest</a>. <br><br>  Uitgebreidere uitleg over de werking van IRMA wordt gegeven door de stichting Privacy by Design op een eigen  <a href="https://privacybydesign.foundation/irma-uitleg/" target="_blank">pagina </a>. Mensen die de software van IRMA willen bekijken kunnen terecht op een technische <a href="https://irma.app/docs target="_blank">documentatie</a> pagina en op <a href="https://github.com/privacybydesign" target="_blank">Github</a>.
 
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
+- template: irma-footer-2
+  block: irma-footer-2
+  id: links
+  image_1:
+    image: "/uploads/non-free/irma_logo@1x.png"
+  col_2:  
+    headline: Privacy by Design Foundation
+    content: IRMA wordt gemaakt door de stichting <a href="https://privacybydesign.foundation/" target="_blank">Privacy
+      by Design</a>. Uitgebreidere uitleg over de werking van IRMA wordt gegeven door de stichting Privacy by Design op een eigen  <a href="https://privacybydesign.foundation/irma-uitleg/" target="_blank">pagina </a>.
+  col_3:
+    headline: Docs
+    content: Ontwikkelaars die met IRMA willen werken kunnen terecht op een technische <a href="https://irma.app/docs" target="_blank">documentatie pagina</a>.
+  col_4:
+    headline: Github
+    content: Mensen die de software van IRMA willen bekijken of willen bijdragen aan IRMA kunnen terecht op <a href="https://github.com/privacybydesign" target="_blank">Github</a>.
+
 
 ---
