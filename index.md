@@ -223,13 +223,14 @@ page_sections:
   - question: IRMA is <em>open source</em>; wat betekent dat?
     answer: De software van IRMA is open source. Dat betekent dat de manier waarop IRMA werkt door iedereen bekeken kan worden':' de software 
       staat gewoon online, namelijk op <a href="https://github.com/privacybydesign" target="_blank">Github</a>. Natuurlijk moet je wel wat van 
-      computerprogramma's weten om dit echt te kunnen begrijpen, maar het principe is belangrijk':" IRMA kent geen geheimen en werkt op een 
+      computerprogramma's weten om dit echt te kunnen begrijpen, maar het principe is belangrijk':' IRMA kent geen geheimen en werkt op een 
       transparante manier. Dit draagt bij aan het vertrouwen in IRMA. Er zijn daarom met IRMA geen discussies over verborgen achterdoortjes van 
       leveranciers met een eigen agenda, zoals bijvoorbeeld met 5G telecommunicatie. De stichting Privacy by Design achter IRMA vindt dat 
       alle software die gebruikt wordt in infrastructuur met een publieke rol open source moet zijn. 
 
   - question: Ik wil meer informatie over IRMA; waar kan ik terecht? 
-    answer: Het grotere verhaal achter IRMA staat beschreven in een <a href="https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf" target="_blank">IRMA Manifest </a>. <br><br>
+    answer: Het grotere verhaal achter IRMA staat beschreven in een <a href="https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf" target="_blank">IRMA Manifest</a>. <br><br>
+
     Uitgebreidere uitleg over de werking van IRMA wordt gegeven door de stichting Privacy by Design op een eigen  <a href="https://privacybydesign.foundation/irma-uitleg/" target="_blank">pagina </a>. Mensen die de software van IRMA willen bekijken kunnen terecht op een technische <a href="https://irma.app/docs target="_blank">documentatie</a> pagina en op <a href="https://github.com/privacybydesign" target="_blank">Github</a>.
 - template: simple-footer
   block: footer-1
