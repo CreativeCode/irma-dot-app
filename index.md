@@ -30,7 +30,7 @@ page_sections:
     url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
     button_text: IRMA voor Android
   image:
-    image: "/uploads/2019/07/30/screenshot.png"
+    image: "/uploads/non-free/screenshot.png"
     alt_text: Product Shot
   background_image: "/uploads/2019/07/30/irma-2-bg.png"
 - template: 3-column-text
@@ -178,7 +178,7 @@ page_sections:
       app voor internetbankieren. Wanneer je je telefoon verliest kan een ander dus
       geen gebruik maken van je IRMA app en zich als jou voordoen. Als je dus een
       goede PIN gekozen hebt, hoef je je geen zorgen te maken. <br><br> Je kunt jezelf
-      echter nog beter beschermen':' bij het openen van een IRMA account heb je de
+      echter nog beter beschermen<span>:</span> bij het openen van een IRMA account heb je de
       optie gekregen om een email adres toe te voegen. Als je dat gedaan hebt, kun
       je via de <a href="https://privacybydesign.foundation/mijnirma/" target="_blank">MijnIRMA</a>
       omgeving je IRMA account blokkeren. Dan kan er echt helemaal niks meer met de
@@ -209,7 +209,7 @@ page_sections:
       en continuiteit van IRMA gegarandeerd.
   - question: Hoezo kan IRMA gratis zijn?
     answer: IRMA is gratis voor gebruikers. IRMA is ook gratis voor websites die
-      gebruikers via IRMA laten inloggen':' iedereen kan kenmerken uit een IRMA app
+      gebruikers via IRMA laten inloggen<span>:</span> iedereen kan kenmerken uit een IRMA app
       opvragen en bekijken, als de gebruiker toestemming geeft. Maar het is <em>niet
       gratis</em> om kenmerken uit te geven. Niet iedereen kan zomaar kenmerken in
       IRMA apps zetten; dat zou snel een rommeltje worden.<br><br> Voor die uitgifte
@@ -221,13 +221,13 @@ page_sections:
       geen winstoogmerk heeft is IRMA als geheel een goedkoop systeem.
 
   - question: IRMA is <em>open source</em>; wat betekent dat?
-    answer: De software van IRMA is open source. Dat betekent dat de manier waarop IRMA werkt door iedereen bekeken kan worden':' de software 
+    answer: De software van IRMA is open source. Dat betekent dat de manier waarop IRMA werkt door iedereen bekeken kan worden<span>:</span> de software 
       staat gewoon online, namelijk op <a href="https://github.com/privacybydesign" target="_blank">Github</a>. Natuurlijk moet je wel wat van 
-      computerprogramma's weten om dit echt te kunnen begrijpen, maar het principe is belangrijk':' IRMA kent geen geheimen en werkt op een 
+      computerprogramma's weten om dit echt te kunnen begrijpen, maar het principe is belangrijk<span>:</span> IRMA kent geen geheimen en werkt op een 
       transparante manier. Dit draagt bij aan het vertrouwen in IRMA. Er zijn daarom met IRMA geen discussies over verborgen achterdoortjes van 
       leveranciers met een eigen agenda, zoals bijvoorbeeld met 5G telecommunicatie. De stichting Privacy by Design achter IRMA vindt dat 
       alle software die gebruikt wordt in infrastructuur met een publieke rol open source moet zijn. 
-      
+
   - question: Ik wil meer informatie over IRMA; waar kan ik terecht? 
     answer: Het grotere verhaal achter IRMA staat beschreven in een <a href="https://privacybydesign.foundation/pdf/IRMA-manifest-2019.pdf" target="_blank">IRMA Manifest</a>. <br><br>  Uitgebreidere uitleg over de werking van IRMA wordt gegeven door de stichting Privacy by Design op een eigen  <a href="https://privacybydesign.foundation/irma-uitleg/" target="_blank">pagina </a>. Mensen die de software van IRMA willen bekijken kunnen terecht op een technische <a href="https://irma.app/docs target="_blank">documentatie</a> pagina en op <a href="https://github.com/privacybydesign" target="_blank">Github</a>.
 
